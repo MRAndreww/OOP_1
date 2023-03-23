@@ -16,7 +16,7 @@ public class Main {
         Ravenclaw padmaPatil = new Ravenclaw("Padma Patil", 50, 60, 80, 80, 75, 55);
         Ravenclaw marcusBelby = new Ravenclaw("Marcus Belby", 55, 55, 45, 85, 65, 75);
 
-        printGryffindor(dracoMalfoy);
+        printGryffindor(harryPotter);
         HoghwartsStudents.bestStudent(harryPotter, cedricDiggory);
         Gryffindor.bestGryffindor(hermioneGranger,harryPotter);
 
